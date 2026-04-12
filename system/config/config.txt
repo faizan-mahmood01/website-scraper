@@ -1,0 +1,4 @@
+{
+    "base_url": "https:\/\/themazine.com\/html\/rupj",
+    "project_dir": "themazine.com"
+}
